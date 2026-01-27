@@ -1,4 +1,4 @@
-#Real-Time Sign Language Translation & Learning System
+*Real-Time Sign Language Translation & Learning System*
 
 A dual-function AI-powered system that translates sign language in real time and teaches sign language interactively, designed to bridge the communication gap between signers and non-signers.
 
